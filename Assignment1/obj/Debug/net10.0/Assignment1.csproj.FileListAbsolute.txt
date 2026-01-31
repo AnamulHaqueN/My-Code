@@ -1,0 +1,15 @@
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfoInputs.cache
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfo.cs
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.sourcelink.json
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\bin\Debug\net10.0\Assignment1.exe
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\bin\Debug\net10.0\Assignment1.deps.json
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\bin\Debug\net10.0\Assignment1.runtimeconfig.json
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\bin\Debug\net10.0\Assignment1.dll
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\bin\Debug\net10.0\Assignment1.pdb
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.dll
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\refint\Assignment1.dll
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.pdb
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\Assignment1.genruntimeconfig.cache
+E:\CSharpAssignment\AsthaCodeCamp\Assignment1\obj\Debug\net10.0\ref\Assignment1.dll
